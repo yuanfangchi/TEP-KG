@@ -1,1 +1,1 @@
-# TEP_KG
+# TEP-KG
